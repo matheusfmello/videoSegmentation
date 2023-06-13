@@ -30,4 +30,4 @@ python videoSegmentation.py input.mp4 output.mp4 -p dog pink+balloon -b backgrou
 
 **-b background.jpg:** background image path
 
--f 30: frames per second to be written
+**-f 30:** frames per second to be written
