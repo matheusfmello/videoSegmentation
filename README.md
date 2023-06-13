@@ -23,7 +23,11 @@ The segmentation is made by calling videoSegmentation.py and its arguments. You 
 python videoSegmentation.py input.mp4 output.mp4 -p dog pink+balloon -b background.jpg -f 30
 
 -input.mp4: video input path
+
 -output.mp4: video output path
+
 -p dog pink+balloon: elements to be extracted, '+' stands for spacebar in multiple words queries
+
 -b background.jpg: background image path
+
 -f 30: frames per second to be written
